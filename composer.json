@@ -1,18 +1,21 @@
 {
     "name": "eduardocasas/color-generator",
+    "description": "Color Generator Library",
     "version": "0.1.0",
     "type": "library",
-    "require":
-    {
-        "php": ">=5.4.6"
-    },
-    "description": "Color Generator Library",
+    "keywords": ["color"],
+    "homepage": "https://github.com/eduardocasas/ColorGenerator",
+    "license": "MIT",    
     "authors":[
         {
             "name": "Eduardo Casas",
             "homepage": "http://www.eduardocasas.com"
         }
     ],
+    "require":
+    {
+        "php": ">=5.4.6"
+    },    
     "suggest": {
         "phpunit/phpunit": "3.7.*"
     },
