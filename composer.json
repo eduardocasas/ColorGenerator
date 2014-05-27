@@ -1,0 +1,25 @@
+{
+    "name": "eduardocasas/color-generator",
+    "version": "0.1.0",
+    "type": "library",
+    "require":
+    {
+        "php": ">=5.4.6"
+    },
+    "description": "Color Generator Library",
+    "authors":[
+        {
+            "name": "Eduardo Casas",
+            "homepage": "http://www.eduardocasas.com"
+        }
+    ],
+    "suggest": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "eduardocasas\\ColorGenerator": ""
+        }
+    }
+}
+
